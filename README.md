@@ -1,5 +1,5 @@
 # Conspects to [Introduction to Machine Learning Course](https://stepik.org/course/4852)
-Here you can find conspects in form of jupyter notebooks to stepik course. You can view
+Here you can find notes in form of jupyter notebooks to stepik course.
 
 #TODO
 * improve 1st note in pandas
@@ -12,7 +12,7 @@ Here you can find conspects in form of jupyter notebooks to stepik course. You c
 
 # Getting Started
 
-Conspects are categorized by theme and aranged sequentially.  
+Notes are categorized by theme and aranged sequentially.
 Available directories:
 1. data - contains datasets used in notebooks
 1. pandas - contains notebooks about pandas
