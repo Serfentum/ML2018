@@ -14,8 +14,8 @@ Here you can find notes in form of jupyter notebooks to stepik course.
 
 Notes are categorized by theme and aranged sequentially.
 Available directories:
-1. data - contains datasets used in notebooks
-1. pandas - contains notebooks about pandas
+1. pandas - contains notebooks about pandas and data folder with datasets
+
 
 
 # Authors
