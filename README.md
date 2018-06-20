@@ -1,9 +1,9 @@
 # Conspects to [Introduction to Machine Learning Course](https://stepik.org/course/4852)
 Here you can find notes in form of jupyter notebooks to stepik course.
 
-#TODO
-* improve 1st note in pandas
+# TODO
 * note with function applying in pandas
+* refine note with str funcs
 * add NA interpolation in na note
 * folder with note about keras
 * folder with note about sklearn
