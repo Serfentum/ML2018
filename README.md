@@ -2,11 +2,15 @@
 Here you can find notes in form of jupyter notebooks to stepik course.
 
 # TODO
-* note with function applying in pandas
-* refine note with str funcs
-* add NA interpolation in na note
-* folder with note about keras
-* folder with note about sklearn
+1. pandas
+    * add NA interpolation in na note
+    * create assignments on stepik
+1. keras
+    * folder with note about keras
+    * create assignments on stepik
+1. sklearn
+    * folder with note about sklearn
+    * add Calibrator in assignments on stepik
 * other
 
 
